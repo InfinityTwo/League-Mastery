@@ -1,0 +1,56 @@
+Thresh, 0/5/26, A-, Defeat, Bottom, -, -, -, (Placements Start)
+Thresh, 0/4/1, C-, Defeat, Bottom, -, -, -, Comp Crash (Placements)
+Thresh, 1/9/19, B-, Defeat, Bottom, -, - , -, (Placements)
+Blitzcrank, 0/4/3, C-, Defeat, Bottom, -, -, -, (Placements)
+Lux, 4/9/9, C+, Defeat, Mid, -, -, -, (Placements)
+Blitzcrank, 1/4/14, A, Victory, Bottom, -, -, -, (Placements)
+Thresh, 0/4/7, B-, Defeat, Bottom, -, -, -, (Placements)
+Blitzcrank, 0/2/2, C+, Defeat, Bottom, -, -, -, (Placements)
+Lux, 4/4/3, B, Defeat, Mid, -, -, -, (Placements)
+Ziggs, 5/5/5, B+, Defeat, Mid, 0, -, Bronze III, (Placements End)
+Blitzcrank, 2/0/14, S, Victory, Bottom, 29, 29, Bronze III, -
+Morgana, 1/9/11, C-, Defeat, Bottom, 15, -14, Bronze III, -
+Morgana, 3/10/10, C-, Defeat, Bottom, 0, -15, Bronze III, Comp Crash x2
+Thresh, 1/4/8, B+, Defeat, Bottom, 0, 0, Bronze III, -
+Ezreal, 4/5/7, B+, Defeat, Bottom, 0, 0, Bronze III, SP dc
+Thresh, 0/9/9, C, Defeat, Bottom, 0, 0, Bronze III, -
+Blitzcrank, 3/6/28, A+, Defeat, Bottom, 0, 0, Bronze III, -
+Jinx, 10/1/7, S-, Victory, Bottom, 25, 25, Bronze III, -
+Lux, 5/1/17, A+, Victory, Mid, 49, 24, Bronze III, -
+Jinx, 12/8/16, B, Victory, Bottom, 73, 24, Bronze III, -
+Jinx, 2/7/5, C-, Defeat, Bottom, 58, -16, Bronze III, retarded sp
+Jinx, 3/5/9, B-, Victory, Bottom, 81, 24, Bronze III, -
+Thresh, 3/3/17, S-, Victory, Bottom, 100, 19, Bronze III, (Promotionals Start 0/0)
+Jinx, 1/8/4, C-, Defeat, Bottom, 100, -, Bronze III, horrible sp (Promotionals 0/1)
+Vayne, 11/7/6, A, Defeat, Bottom, 70, -, Bronze III, (Promotionals End 0/2)
+Jinx, 15/6/13, A+, Victory, Bottom, 98, 28, Bronze III, -
+Jinx, 14/0/8, S-, Victory, Bottom, 100, 2, Bronze III, (Promotionals Start 1/0)
+Jinx, 4/2/4, B+, Victory, Bottom, 0, -, Bronze I, (Promotionals End 2/0. Double Promotionals)
+Miss Fortune, 11/3/8, A+, Victory, Bottom, 28, 28, Bronze I, -
+Thresh, 2/6/9, B-, Defeat, Bottom, 14, -14, Bronze I, -
+Thresh, 3/6/4, B-, Defeat, Bottom, 1, -13, Bronze I, Honestly braindead adc
+Miss Fortune, 13/7/14, A, Defeat, Bottom, 0, -1, Bronze I, -
+Miss Fortune, 2/4/2, C, Defeat, Bottom, 0, 0, Bronze I, -
+Blitzcrank, 0/0/16, A+, Victory, Bottom, 25, 25 Bronze I, -
+Jinx, 18/3/4, S, Victory, Bottom, 51, 26, Bronze I, -
+Miss Fortune, 8/6/9, A, Victory, Bottom, 77, 26, Bronze I, -
+Miss Fortune, 5/6/7, B+, Defeat, Bottom, 62, -15, Bronze I, -
+Thresh, 1/5/19, A, Victory, Bottom, 87, 25, Bronze I, -
+Miss Fortune, 18/6/7, S, Defeat, Bottom, 71, -16, Bronze I, -
+Miss Fortune, 12/1/11, S, Victory, Bottom, 93, 22, Bronze I, -
+Miss Fortune, 11/2/8, S-, Defeat, Bottom, 77, -16, Bronze I, -
+Miss Fortune, 0/7/0, C-, Defeat, Bottom, 61, -16, Bronze I, -
+Thresh, 1/3/18, A, Victory, Bottom, 84, 23, Bronze I, -
+Miss Fortune, 5/1/8, A+, Victory, Bottom, 100, 16, Bronze I, (Promotionals Start 0/0)
+Miss Fortune, 10/4/6, S-, Victory, Bottom, 100, -, Bronze I, (Promotionals 1/0)
+Miss Fortune, 0/2/3, B, Defeat, Bottom, 100, -, Bronze I, (Promotionals 1/1)
+Miss Fortune, 13/3/12, A+, Victory, Bottom, 100, -, Bronze I, (Promotionals 2/1)
+Miss Fortune, 2/5/4, B+, Defeat, Bottom, 100, -, Bronze I, (Promotionals 2/2)
+Jinx, 14/1/9, S-, Victory, Bottom, 0, -, Silver V, (Promotionals End 3/2)
+Miss Fortune, 8/4/6, B, Victory, Bottom, 25, 25, Silver V, -
+Jinx, 11/2/4, S-, Victory, Bottom, 50, 25, Silver V, -
+Jinx, 12/0/3, S, Victory, Bottom, 74, 24, Silver V, -
+Jinx, 4/3/8, A-, Victory, Bottom, 97, 23, Silver V, -
+Lux, 4/3/8, A-, Victory, Mid, 100, 3, Silver V, (Promotionals Start 0/0)
+Jinx, 11/5/14, A, Victory, Bottom, 100, -, Silver V, (Promotionals 1/0)
+Jinx, 5/2/11, A-, Victory, Bottom, 0, -, Silver IV, (Promotionals End 2/0)

@@ -1,0 +1,66 @@
+#Comment out region if finished
+Main Program
+
+    Seasons Tab (remember if in champs or ranked tab)
+        #Text: Preseason - End of season Date
+
+        #Mastery Tab
+            #2D Table - Column is Mastery, Rows is Champions
+            #*2D Tables are similar to Excel
+                #Column with... (brackets are info for each match)
+                    #Champion (Text, colour depend on mastery 4-7 if any)
+                    #Avg Mastery Score (Letter)
+                    #Masteries from S+ to D- (coloured colums like excel)
+                    #Total Games Played
+                #Rows with...
+                    #Total of each other columns
+                    #Champions (Name & Image) (From most recent)
+
+        Ranked Tab
+            Solo/Duo, 3v3 and 5v5 Tab
+                2D Table - Column is Stats, Rows are Matches
+                *2D Tables are broken for each row. Basically each row is on top of another. Not like excel
+                    Column with... (brackets are info for each match)
+                        Match Number (In Descending Order)
+                        Champion (Image)
+                        Personal Score (K/D/A)
+                        Mastery (S+)
+                        Victory/Defeat (in colours, green for win, red for lose)
+                        Lane Image (image, light grey)
+                        Final LP & Rank with LP Gain/Loss in Brackets (50(+25), <image of rank>) (gain and loss in green/red colour)
+                        Extra Notes
+
+                    Rows with...
+                        Total of each column
+                        Matches (From most recent)
+            
+        Graph Tab (if possible)
+            Graph of Mastery scores (Total for all & specific Champions)
+
+    Add/Edit Data Button (dynamic, adds correct type of tab depending on where user is at) (remeber last chosen item)
+
+        #Mastery Tab
+            #Regular Champions (Image)
+                #Choose Champion
+                #Mastery Score (Click images)
+
+        Champion Mastery Level (image?)
+            #Choose Champion
+            Choose Mastery Level
+        
+        Ranked Tab
+            Ranked (Image)
+                Placement Rank (ONLY FOR FIRST GAME)
+                #Choose Champion
+                Choose Queue Type (dynamic, adds to Solo/Duo/3v3/5v5 automatically, as well as fill in Queue Type for Solo/Duo)
+                Personal Score
+                Mastery Score
+                Victory/Defeat
+                Lane (autofill depending on champion) (editable)
+                LP change
+                Extra Notes
+
+#extra things to add
+#movable window
+#sorting champions
+#reset masteries
