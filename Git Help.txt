@@ -3,5 +3,4 @@ Upload:
 git commit -a -m ""
 git push origin master
 
-git pull origin master
-git reset --hard HEAD
+git clone https://github.com/InFInItyKiLL33/League-Mastery.git

@@ -85,6 +85,7 @@ Ornn, 0
 Pantheon, 1
 Poppy, 0
 Pyke, 4
+Qiyana, 2
 Quinn, 0
 Rakan, 4
 Rammus, 1
@@ -95,6 +96,7 @@ Riven, 0
 Rumble, 0
 Ryze, 2
 Sejuani, 1
+Senna, 4
 Shaco, 1
 Shen, 0
 Shyvana, 1
