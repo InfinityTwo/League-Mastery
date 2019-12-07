@@ -1,2 +1,2 @@
 @ECHO OFF
-cmd.exe /K "cd C:\Users\Infinity\Desktop\League-Mastery"
+cmd.exe /K "cd C:\Users\Infinity\Desktop\InfinityTwoProjects\League-Mastery"
