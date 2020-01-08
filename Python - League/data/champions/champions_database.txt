@@ -5,6 +5,7 @@ Alistar, 4
 Amumu, 1
 Anivia, 2
 Annie, 2
+Aphelios, 3
 Ashe, 3
 Aurelion Sol, 2
 Azir, 2
@@ -97,6 +98,7 @@ Rumble, 0
 Ryze, 2
 Sejuani, 1
 Senna, 4
+Sett, 0
 Shaco, 1
 Shen, 0
 Shyvana, 1
