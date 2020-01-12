@@ -41,7 +41,7 @@ import pyautogui
 #check current season-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 #-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 defaultSeasonReadIndex = 0 #index for read file
-defaultSeasonNumber = 9 #to be updated as app is updated
+defaultSeasonNumber = 10 #to be updated as app is updated
 with open("config.cfg", "r") as config: #read line 2 of config file to check for an updated number
     for i in config:
         if defaultSeasonReadIndex == 1:
